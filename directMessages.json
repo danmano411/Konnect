@@ -1,0 +1,164 @@
+{
+  "chatCells": [
+    {
+      "id": 1,
+      "firstName": "Bartel",
+      "lastName": "Kinde",
+      "messageStatus": "Delivered",
+      "messageTime": "8hrs",
+      "isBookmarked": false
+    },
+    {
+      "id": 2,
+      "firstName": "Ilario",
+      "lastName": "Brownsey",
+      "messageStatus": "Delivered",
+      "messageTime": "5hrs",
+      "isBookmarked": false
+    },
+    {
+      "id": 3,
+      "firstName": "Irena",
+      "lastName": "Schimann",
+      "messageStatus": "Delivered",
+      "messageTime": "7hrs",
+      "isBookmarked": false
+    },
+    {
+      "id": 4,
+      "firstName": "Orlando",
+      "lastName": "Sketcher",
+      "messageStatus": "Unread",
+      "messageTime": "12hrs",
+      "isBookmarked": false
+    },
+    {
+      "id": 5,
+      "firstName": "Elga",
+      "lastName": "Glasser",
+      "messageStatus": "Read",
+      "messageTime": "24hrs",
+      "isBookmarked": false
+    },
+    {
+      "id": 6,
+      "firstName": "Lev",
+      "lastName": "Alflatt",
+      "messageStatus": "Delivered",
+      "messageTime": "10hrs",
+      "isBookmarked": false
+    },
+    {
+      "id": 7,
+      "firstName": "Christoph",
+      "lastName": "Claridge",
+      "messageStatus": "Delivered",
+      "messageTime": "12hrs",
+      "isBookmarked": false
+    },
+    {
+      "id": 8,
+      "firstName": "Rhona",
+      "lastName": "Scholl",
+      "messageStatus": "Read",
+      "messageTime": "4hrs",
+      "isBookmarked": false
+    },
+    {
+      "id": 9,
+      "firstName": "Indira",
+      "lastName": "Vinck",
+      "messageStatus": "Read",
+      "messageTime": "1hr",
+      "isBookmarked": false
+    },
+    {
+      "id": 10,
+      "firstName": "Sergio",
+      "lastName": "Rapa",
+      "messageStatus": "Delivered",
+      "messageTime": "11hrs",
+      "isBookmarked": false
+    },
+    {
+      "id": 11,
+      "firstName": "Cyrille",
+      "lastName": "Berridge",
+      "messageStatus": "Unread",
+      "messageTime": "11hrs",
+      "isBookmarked": false
+    },
+    {
+      "id": 12,
+      "firstName": "Kynthia",
+      "lastName": "Flowerdew",
+      "messageStatus": "Read",
+      "messageTime": "10hrs",
+      "isBookmarked": false
+    },
+    {
+      "id": 13,
+      "firstName": "Emmanuel",
+      "lastName": "Wagner",
+      "messageStatus": "Unread",
+      "messageTime": "24hrs",
+      "isBookmarked": false
+    },
+    {
+      "id": 14,
+      "firstName": "Barby",
+      "lastName": "Camings",
+      "messageStatus": "Unread",
+      "messageTime": "24hrs",
+      "isBookmarked": false
+    },
+    {
+      "id": 15,
+      "firstName": "Eziechiele",
+      "lastName": "Tatchell",
+      "messageStatus": "Read",
+      "messageTime": "1hr",
+      "isBookmarked": false
+    },
+    {
+      "id": 16,
+      "firstName": "Clarita",
+      "lastName": "Letcher",
+      "messageStatus": "Unread",
+      "messageTime": "24hrs",
+      "isBookmarked": false
+    },
+    {
+      "id": 17,
+      "firstName": "Mattheus",
+      "lastName": "Southward",
+      "messageStatus": "Unread",
+      "messageTime": "3hrs",
+      "isBookmarked": false
+    },
+    {
+      "id": 18,
+      "firstName": "Lloyd",
+      "lastName": "Gerald",
+      "messageStatus": "Read",
+      "messageTime": "11hrs",
+      "isBookmarked": false
+    },
+    {
+      "id": 19,
+      "firstName": "Joshia",
+      "lastName": "Tothe",
+      "messageStatus": "Delivered",
+      "messageTime": "24hrs",
+      "isBookmarked": false
+    },
+    {
+      "id": 20,
+      "firstName": "Millard",
+      "lastName": "Titterrell",
+      "messageStatus": "Read",
+      "messageTime": "6hrs",
+      "isBookmarked": false
+    }
+  ]
+}
